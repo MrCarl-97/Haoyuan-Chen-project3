@@ -1,0 +1,22 @@
+.login {
+  max-width: 400px;
+  margin: 100px auto;
+  padding: 20px;
+  background-color: #222;
+  border: 1px solid #f00;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.login h1 {
+  margin-bottom: 20px;
+}
+
+.login input {
+  width: calc(100% - 20px);
+  margin-bottom: 15px;
+}
+
+.login button {
+  width: 100%;
+}
